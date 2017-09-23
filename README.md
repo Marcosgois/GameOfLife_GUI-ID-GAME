@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 run .jar in /run/artifacts/libgdx_game_jar/libgdx_game.jar
 ```
-
+<!---
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
@@ -86,3 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+--->
